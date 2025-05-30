@@ -16,6 +16,7 @@ Finally, I also tweaked the AI's margin of error (so it's actually possible to w
 
 <img width="311" alt="image" src="https://github.com/user-attachments/assets/49eaabf3-9026-473b-835a-1e0d4cbd0f04" />
 
+
 <img width="420" alt="image" src="https://github.com/user-attachments/assets/4fe877a8-764a-4757-9f84-51109a877031" />
 
 
